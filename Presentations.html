@@ -16,8 +16,7 @@
                 <li><a href="Research.html">Research Projects</a></li>
                 <li><a href="Presentations.html">Presentations</a></li>
                 <li><a href="Teaching.html">Teaching</a></li>
-                <li><a href="Supervision.html">Supervision</a></li>
-                <li><a href="Partners.html">Armstrong and Partners</a></li>
+                <li><a href="Dashboards.html">Supervision</a></li>
                 <li><a href="Volunteering.html">Volunteering</a></li>
             </ul>
         </nav>
